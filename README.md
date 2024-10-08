@@ -48,6 +48,7 @@
 <p></p>
     <p>Exhibit 4.2</p>
       <s>god i went feral for this card</s>
+      <p>you saw nothing</p>
         
 <p></p>
     <img src="romi9.jpg" width=50%/>
