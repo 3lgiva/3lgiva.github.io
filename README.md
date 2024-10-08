@@ -15,8 +15,7 @@
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
     <li class="highlightedlistitem">his resting bitch face is just-
-
-<p></p>
+        <h3></h3>
 <img src="romi2.jpg" width=50%>
 
 <p></p>
@@ -26,7 +25,7 @@
         he's so fucking pretty
     <li class="highlightedlistitem">
         you can't lie to me.
-<p></p>
+<h3></h3>
 <img src="romi5.jpg" width=50%>
 
 <p></p>
