@@ -18,7 +18,7 @@
     <p>Exhibit 1</p>
     <p>he's so fucking pretty</p>
     
-![romi](https://github.com/user-attachments/assets/bc269253-1761-4179-9640-c2d818fdbce8)
+![image](romi.jpg)
 
 
 <body>
