@@ -15,8 +15,9 @@
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
     <li class="highlightedListItem">
-        "he's so fucking pretty"
-        "you can't lie to me."
+        he's so fucking pretty
+    <li class="highlightedlistitem">
+        you can't lie to me.
 
 
 <img src="romi2.jpg">
