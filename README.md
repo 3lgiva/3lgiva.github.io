@@ -9,9 +9,7 @@
     <h3>i though i'll introduce my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
 
-![image1](https://github.com/user-attachments/assets/d7d0941b-4181-4913-9e2d-b6b2f2b555e8)
-
-e](
+![image](https://github.com/user-attachments/assets/25b28f86-292b-44bc-b553-91963abb216e)
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
