@@ -8,7 +8,8 @@
     <h1>hi lexeigh</h1>
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
-    <img src="img/![2ea26cd7a7abd24e9976ddcd91902b3f](https://github.com/user-attachments/assets/b10d3ec5-7898-45a6-a6c8-4ed8b84084a8)">
+    
+![2ea26cd7a7abd24e9976ddcd91902b3f](https://github.com/user-attachments/assets/b10d3ec5-7898-45a6-a6c8-4ed8b84084a8)">
 
 
 
