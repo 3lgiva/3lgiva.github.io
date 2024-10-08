@@ -21,8 +21,7 @@
 
 <p>he's fucking pretty<p>
     
-![alt text](https://i.pinimg.com/736x/2e/a2/6c/2ea26cd7a7abd24e9976ddcd91902b3f.jpg)
-
+![alt text](https://i.pinimg.com/736x/8e/c2/56/8ec2563de6dffcb155f75b4f3b155378.jpg)
 
 
 <p>Exhibit 2<p>
