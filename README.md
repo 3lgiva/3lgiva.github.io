@@ -8,6 +8,8 @@
     <h1>hi lexeigh</h1>
     <h3>i though i'll introduce my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
+</body>
+   
     
 <img src="romi.jpg">
     <h3> About him</h3>
@@ -43,7 +45,6 @@
         
 <p></p>
     <img src="romi9.jpg">
-    </body>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
 
