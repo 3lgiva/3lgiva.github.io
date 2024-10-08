@@ -48,7 +48,9 @@
 <p></p>
     <p>Exhibit 4.2</p>
     <li class=highlightedlistitem">
-        ~~~god i went feral for this card~~~
+        <:strike:'god i went feral for this card'
+        
+<p></p>
     <img src="romi9.jpg" width=50%/>
 
     
