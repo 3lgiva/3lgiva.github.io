@@ -9,7 +9,8 @@
     <h3>i though i'll introduce my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
 </body>
-   
+
+<head>  
 <body>
     <div>
 <img src="romi.jpg">
@@ -22,6 +23,7 @@
 <img src="romi2.jpg">
     </div>
 </body>
+</head>
 
 <body>
 <div class="container"
