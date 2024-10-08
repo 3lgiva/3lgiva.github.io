@@ -16,7 +16,7 @@
     <p>he's so fucking pretty</p>
 
 
-![romi2](https://github.com/user-attachments/assets/80957bc0-8f7a-4bd5-913f-5ff6f6bd99a1)
+<img src="romi2.jpg">
     <p>Exhbit 2</p>
 
 ![romi3](https://github.com/user-attachments/assets/4bcb5b02-4611-4bc6-be45-7bd16227f9d8)
