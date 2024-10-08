@@ -11,20 +11,13 @@
 
 ![2ea26cd7a7abd24e9976ddcd91902b3f](https://github.com/user-attachments/assets/9e4d0525-9947-4553-a4fb-5a2d33c18899)
 e](
-
-</body>
-
-<body>
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
     <p>he's so fucking pretty</p>
-    
+
+
 ![image](https://i.pinimg.com/736x/8e/c2/56/8ec2563de6dffcb155f75b4f3b155378.jpg)
-
-
-
-<body>
     <p>Exhbit 2</p>
 
 ![image](https://github.com/user-attachments/assets/7af271f9-bb01-4530-acc7-129acb6d7a91)
