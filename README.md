@@ -9,7 +9,8 @@
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
     
-![image](https://github.com/user-attachments/assets/3680c138-86e9-408b-b1f3-64d264c4dee9)
+![romi2](https://github.com/user-attachments/assets/8bd919bf-6823-4805-943c-8f4830cf93f6)
+
 </body>
 
 <body>
