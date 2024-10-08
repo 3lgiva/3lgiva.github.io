@@ -55,6 +55,8 @@
 |Will worry about your skin care routine like it's the end of the world| abbreviate *a lot* of his insults to a point where when you ask what they mean, **he will insult u more**. (ex: TGA = "tiresome","good-for-nothing","asshole" (don't ask me how i remember that))|
 |weapon of choice is a sniper rifle| he can shot properly.|
 
+<h1></h1>
+
 <p>yes lexeigh.... i am aware.... know i have horrible taste in men...</p>
 
 <p> BUT THIS IS MY DEFENSE:</p>
