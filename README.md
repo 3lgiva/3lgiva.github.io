@@ -26,8 +26,8 @@
 
 ![alt text](https://i.pinimg.com/736x/a1/3e/14/a13e1469aae81d9f01fa5d928e88be4c.jpg)
     <h3>Pros and con fo romeo (romi,ro-ro, lulu, our little bitchy boy)
-<p>
-    |pro|con|
+<p
+|pro|con|
 |---|---|
 |he has money| he's a little shit|
 |he's from "House of Lucci", which is a famous family from Italy known for their high end luxury brand| will throw insults at you like it's money|
