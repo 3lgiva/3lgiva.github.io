@@ -10,14 +10,14 @@
     <h3>i though i'll introduce my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
     
-<img src="romi.jpg" width=50%/>
+<img src="romi.jpg">
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
     <li class="highlightedlistitem">his resting bitch face is just-
 
 <p></p>
-<img src="romi2.jpg">
+<img src="romi2.jpg" width=50%/>
 
 <p></p>
     <p>Exhibit 2</p>
@@ -27,14 +27,14 @@
     <li class="highlightedlistitem">
         you can't lie to me.
 <p></p>
-<img src="romi5.jpg">
+<img src="romi5.jpg" width=50%/>
 
 <p></p>
     <p>Exhibit 3</p>
 <li class="highlightedlistitem">
         him. that's all.
 <p></p>
-<img src="romi8.jpg">
+<img src="romi8.jpg" width=50%/>
 <p></p>
 
 <p></p>
@@ -44,10 +44,10 @@
 <li class="highlightedlisteditem">
     I would die for it.
 <p></p>
-    <img src="romi6.jpg">
+    <img src="romi6.jpg" width=50%/>
 <p></p>
     <p>Exhibit 4.2</p>
-    <img src="romi9.jpg">
+    <img src="romi9.jpg" width=50%/>
 
     
 <p></p>
