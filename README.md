@@ -16,7 +16,7 @@
     <p>Exhibit 1</p>
     <li class="highlightedListItem">
         ::marker
-    <p>he's so fucking pretty</p>
+        "he's so fucking pretty"
 
 
 <img src="romi2.jpg">
