@@ -9,7 +9,8 @@
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
     
-![2ea26cd7a7abd24e9976ddcd91902b3f](https://github.com/user-attachments/assets/35569ffe-61a9-4364-9e07-ef78235c33ac)
+![2ea26cd7a7abd24e9976ddcd91902b3f](https://github.com/user-attachments/assets/094929d1-879c-4351-9f65-3aaec592b379)
+
 
 </body>
 
@@ -20,6 +21,7 @@
     <p>he's so fucking pretty</p>
     
 ![romi](https://github.com/user-attachments/assets/bc269253-1761-4179-9640-c2d818fdbce8)
+
 
 
 <body>
