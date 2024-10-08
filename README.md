@@ -9,7 +9,8 @@
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
 
-![Alt text](data:image/jpg;base64,aHR0cHM6Ly9pLnBpbmltZy5jb20vb3JpZ2luYWxzLzJlL2EyLzZjLzJlYTI2Y2Q3YTdhYmQyNGU5OTc2ZGRjZDkxOTAyYjNmLmpwZw==)
+![2ea26cd7a7abd24e9976ddcd91902b3f](https://github.com/user-attachments/assets/9e4d0525-9947-4553-a4fb-5a2d33c18899)
+e](
 
 </body>
 
