@@ -19,7 +19,7 @@
     <p>Exhibit 1</p>
     <p>he's so fucking pretty</p>
     
-![romi](images/romi.jpg)
+![image](https://i.pinimg.com/736x/8e/c2/56/8ec2563de6dffcb155f75b4f3b155378.jpg)
 
 
 
