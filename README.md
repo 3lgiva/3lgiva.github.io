@@ -9,7 +9,8 @@
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
 
-![image1](https://github.com/user-attachments/assets/9e4d0525-9947-4553-a4fb-5a2d33c18899)
+![image1](https://github.com/user-attachments/assets/d7d0941b-4181-4913-9e2d-b6b2f2b555e8)
+
 e](
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
@@ -17,10 +18,11 @@ e](
     <p>he's so fucking pretty</p>
 
 
-![image1](https://i.pinimg.com/736x/8e/c2/56/8ec2563de6dffcb155f75b4f3b155378.jpg)
+![image1](https://github.com/user-attachments/assets/5a19a2c3-c1d0-4d0c-9d25-baaec0d002cd)
     <p>Exhbit 2</p>
 
-![image1](https://github.com/user-attachments/assets/7af271f9-bb01-4530-acc7-129acb6d7a91)
+![image1](https://github.com/user-attachments/assets/8670c15c-353d-4de3-b1d2-b1605b7329ae)
+
 </body>
 
  <h3>Pros and con fo romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
