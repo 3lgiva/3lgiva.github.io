@@ -82,6 +82,7 @@
     <body>
         <div class="container">
  <h3>Pros and con of romeo (romi, ro-ro, lulu, our little bitchy boy)</h3>
+            
 |pro|con|
 |---|---|
 |he has money| he's a little shit|
