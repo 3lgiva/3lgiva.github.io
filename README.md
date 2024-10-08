@@ -19,8 +19,8 @@
 
 <p></p>
 <img src="romi2.jpg">
-    <p>Exhibit 2</p>
-
+<p></p>
+    <p>Exhibiti 2</p>
  <li class="highlightedListItem">
         he's so fucking pretty
     <li class="highlightedlistitem">
