@@ -9,7 +9,7 @@
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
     
-![alt text](https://i.pinimg.com/736x/2e/a2/6c/2ea26cd7a7abd24e9976ddcd91902b3f.jpg)
+![image](https://github.com/user-attachments/assets/3680c138-86e9-408b-b1f3-64d264c4dee9)
 </body>
 
 <body>
@@ -33,7 +33,7 @@
 |he's from "House of Lucci", which is a famous family from Italy known for their high end luxury brand| will throw insults at you like it's money|
 |Will worry about your skin care routine like it's the end of the world| abbreviate *a lot* of his insults to a point when you ask what they mean, **he will insult u more**. (ex: TGA = "tiresome","good-for-nothing","asshole" (don't ask me how i remember that))|
 |weapon of choice is a sniper rifle| he can shot proerly.|
-</p>
+
 </body>
 
 
