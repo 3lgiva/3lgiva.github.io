@@ -8,7 +8,7 @@
     <h1>hi lexeigh</h1>
     <h3>i though i'll introduce my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
-
+    
 <img src="img/romi.jpg" alt="romi1">
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
