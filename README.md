@@ -24,7 +24,7 @@
 <body>
     <p>Exhbit 2</p>
 
-![alt text](https://i.pinimg.com/736x/a1/3e/14/a13e1469aae81d9f01fa5d928e88be4c.jpg)
+![image](https://github.com/user-attachments/assets/7af271f9-bb01-4530-acc7-129acb6d7a91)
     <h3>Pros and con fo romeo (romi,ro-ro, lulu, our little bitchy boy)
 
 |pro|con|
