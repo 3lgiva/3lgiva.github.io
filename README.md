@@ -20,7 +20,8 @@
 <p>Exhibit 1<p>
 
 <p>he's fucking pretty<p>
-<img src="img/https://i.pinimg.com/736x/a1/3e/14/a13e1469aae81d9f01fa5d928e88be4c.jpg" alt="romeo">
+    
+![alt text](https://i.pinimg.com/736x/2e/a2/6c/2ea26cd7a7abd24e9976ddcd91902b3f.jpg)
 
 
 
