@@ -34,7 +34,7 @@
 <li class="highlightedlistitem">
         him. that's all.
 <p></p>
-<img src="romi3.jpg">
+<img src="romi8.jpg">
 <p></p>
 
 <p></p>
@@ -44,13 +44,15 @@
 <li class="highlightedlisteditem">
     I would die for it.
 <p></p>
+    <img src="romi6.jpg">
+<p></p>
     <p>Exhibit 4.2</p>
     <img src="romi9.jpg">
 
     
 <p></p>
     <p>Exhibit 5</p>
-    <img src="romi6.jpg">
+    
 </body>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
