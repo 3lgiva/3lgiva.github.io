@@ -36,8 +36,12 @@
 |weapon of choice is a sniper rifle| he can shot properly.
 
 <p>yes lexeigh.... i am aware.... know i have horrible taste in men...</p>
+
+<h1>
+    
+</h1>
 <p> BUT THIS IS MY DEFENSE:</p>
 <li class="highlightedlisteditem">
-    "HE'S PRETTY"
+    i don't have one...
     
 </html>
