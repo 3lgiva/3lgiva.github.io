@@ -61,7 +61,6 @@
 <p>yes lexeigh.... i am aware.... know i have horrible taste in men...</p>
 
 <p> BUT THIS IS MY DEFENSE:</p>
-<li class="highlightedlisteditem">
-    i don't have one...
+    <p>i don't have one...</p>
     
 </html>
