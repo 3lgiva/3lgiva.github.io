@@ -15,19 +15,21 @@
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
-    <li class="highlightedlistitem">his resting bitch face is just-
-
-</div>
-    </div>
-        </div>
-        <p></p>
+    <li class="highlightedlistitem">
+        his resting bitch face is just-
+    <p></p>
 <img src="romi2.jpg"width=50%>
-<p></p>
+
+<body>
+<div class="container"
     <p>Exhibiti 2</p>
  <li class="highlightedListItem">
         he's so fucking pretty
     <li class="highlightedlistitem">
         you can't lie to me.
+</div>
+</body>
+
 <p></p>
 <img src="romi5.jpg">
 
