@@ -9,12 +9,7 @@
   
 <p>This is Romeo Scorpius Lucci<p>
 
-
-
-
 ![alt text](https://i.pinimg.com/736x/2e/a2/6c/2ea26cd7a7abd24e9976ddcd91902b3f.jpg)
-
-
 
 <h3>About him</h3>
 <p>He's from the game call tokyo debunker and runs a casion.<p>
