@@ -1,4 +1,3 @@
-<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="author" content="Patricia Siew">
@@ -18,8 +17,6 @@
 
 <p></p>
 <img src="romi2.jpg" width=50%/>
-
-<p></p>
     <p>Exhibit 2</p>
 
  <li class="highlightedListItem">
@@ -35,9 +32,6 @@
         him. that's all.
 <p></p>
 <img src="romi8.jpg" width=50%/>
-<p></p>
-
-<p></p>
     <p>Exhibit 4.1</p>
 <li class="highlightedlistitem">
     his taste in fashion is killer.
@@ -45,21 +39,11 @@
     I would die for it.
 <p></p>
     <img src="romi6.jpg" width=50%/>
-<p></p>
     <p>Exhibit 4.2</p>
-      ~~god i went feral for this card~~
         
 <p></p>
     <img src="romi9.jpg" width=50%/>
-
-    
-<p></p>
-
-<h1>
-    
-</h1>
-    
-</body>
+    </body>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
 
