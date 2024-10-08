@@ -5,8 +5,7 @@
     <meta name="discription" content="a page where i go feral about romeo">
 </head>
     
-<body>
-    <h1>hi lexeigh</h1>
+<body><h1>hi lexeigh</h1>
     <h3>i though i'll introduce my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
     
@@ -47,8 +46,9 @@
       you saw nothing. focused on him <3
         
 <p></p>
-    <img src="romi9.jpg" width=50%/>
-</body>
+    <img src="romi9.jpg" width=50%/></body>
+    
+
 
  <h3>Pros and con of romeo (romi, ro-ro, lulu, our little bitchy boy)</h3>
 
