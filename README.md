@@ -16,7 +16,7 @@
     <li class="highlightedlistitem">his resting bitch face is just-
 
 <p></p>
-<img src="romi2.jpg" width=50%/>
+<img src="romi2.jpg">
     <p>Exhibit 2</p>
 
  <li class="highlightedListItem">
@@ -24,25 +24,25 @@
     <li class="highlightedlistitem">
         you can't lie to me.
 <p></p>
-<img src="romi5.jpg" width=50%/>
+<img src="romi5.jpg">
 
 <p></p>
     <p>Exhibit 3</p>
 <li class="highlightedlistitem">
         him. that's all.
 <p></p>
-<img src="romi8.jpg" width=50%/>
+<img src="romi8.jpg">
     <p>Exhibit 4.1</p>
 <li class="highlightedlistitem">
     his taste in fashion is killer.
 <li class="highlightedlisteditem">
     I would die for it.
 <p></p>
-    <img src="romi6.jpg" width=50%/>
+    <img src="romi6.jpg">
     <p>Exhibit 4.2</p>
         
 <p></p>
-    <img src="romi9.jpg" width=50%/>
+    <img src="romi9.jpg">
     </body>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
