@@ -46,8 +46,7 @@
 <p></p>
     <img src="romi9.jpg">
 
- <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
-
+ <h3>Pros and con of romeo (romi, ro-ro, lulu, our little bitchy boy)</h3>
 
 |pro|con|
 |---|---|
@@ -56,9 +55,6 @@
 |Will worry about your skin care routine like it's the end of the world| abbreviate *a lot* of his insults to a point where when you ask what they mean, **he will insult u more**. (ex: TGA = "tiresome","good-for-nothing","asshole" (don't ask me how i remember that))|
 |weapon of choice is a sniper rifle| he can shot properly.
 
-<h1>
-    
-</h1>
 <p>yes lexeigh.... i am aware.... know i have horrible taste in men...</p>
 
 <p> BUT THIS IS MY DEFENSE:</p>
