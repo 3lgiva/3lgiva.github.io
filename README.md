@@ -17,7 +17,7 @@
     <li class="highlightedlistitem">his resting bitch face is just-
 
 <p></p>
-<img src="romi2.jpg" width=50%/>
+<img src="romi2.jpg" width=50%>
 
 <p></p>
     <p>Exhibit 2</p>
