@@ -19,7 +19,7 @@
 <img src="romi2.jpg">
     <p>Exhbit 2</p>
 
-![romi3](https://github.com/user-attachments/assets/4bcb5b02-4611-4bc6-be45-7bd16227f9d8)
+<img src="romi3.jpg">
 </body>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
