@@ -47,7 +47,7 @@
     <img src="romi6.jpg" width=50%/>
 <p></p>
     <p>Exhibit 4.2</p>
-      ~~god i went feral for this card~~
+      <s>god i went feral for this card</s>
         
 <p></p>
     <img src="romi9.jpg" width=50%/>
