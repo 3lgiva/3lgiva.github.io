@@ -39,13 +39,18 @@
 <p></p>
 
 <p></p>
-    <p>Exhibit 4</p>
+    <p>Exhibit 4.1</p>
 <li class="highlightedlistitem">
     his taste in fashion is killer.
 <li class="highlightedlisteditem">
     I would die for it.
-
 <p></p>
+    <p>Exhibit 4.2</p>
+    <img src="romi9.jpg">
+
+    
+<p></p>
+    <p>Exhibit 5</p>
     <img src="romi6.jpg">
     
 
