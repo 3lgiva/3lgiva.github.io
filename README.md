@@ -6,7 +6,7 @@
 
 <body>
     <h1>hi lexeigh</h1>
-    <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
+    <h3>i though i'll introduce my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
 
 ![image1](https://github.com/user-attachments/assets/d7d0941b-4181-4913-9e2d-b6b2f2b555e8)
