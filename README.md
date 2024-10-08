@@ -20,6 +20,7 @@
 </div>
     </div>
         </div>
+        <p></p>
 <img src="romi2.jpg"width=50%>
 <p></p>
     <p>Exhibiti 2</p>
