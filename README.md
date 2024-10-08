@@ -1,3 +1,4 @@
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="author" content="Patricia Siew">
@@ -13,6 +14,7 @@
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
+    <li class="highlightedListItem">
     <p>he's so fucking pretty</p>
 
 
@@ -32,4 +34,4 @@
 |Will worry about your skin care routine like it's the end of the world| abbreviate *a lot* of his insults to a point when you ask what they mean, **he will insult u more**. (ex: TGA = "tiresome","good-for-nothing","asshole" (don't ask me how i remember that))|
 |weapon of choice is a sniper rifle| he can shot properly.
 
-
+</html>
