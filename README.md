@@ -27,14 +27,14 @@
     <li class="highlightedlistitem">
         you can't lie to me.
 <p></p>
-<img src="romi5.jpg" width=50%/>
+<img src="romi5.jpg" width=50%>
 
 <p></p>
     <p>Exhibit 3</p>
 <li class="highlightedlistitem">
         him. that's all.
 <p></p>
-<img src="romi8.jpg" width=50%/>
+<img src="romi8.jpg" width=50%>
 <p></p>
 
 <p></p>
@@ -44,7 +44,7 @@
 <li class="highlightedlisteditem">
     I would die for it.
 <p></p>
-    <img src="romi6.jpg" width=50%/>
+    <img src="romi6.jpg" width=50%>
 <p></p>
     <p>Exhibit 4.2</p>
       <s>god i went feral for this card</s>
@@ -60,7 +60,6 @@
 <h1>
     
 </h1>
-    
 </body>
 
  <h3>Pros and con of romeo (romi, ro-ro, lulu, our little bitchy boy)</h3>
@@ -86,4 +85,3 @@
 
 <p>I rest my case.</p>
     
-</html>
