@@ -19,8 +19,7 @@
 ![image](https://github.com/user-attachments/assets/80957bc0-8f7a-4bd5-913f-5ff6f6bd99a1)
     <p>Exhbit 2</p>
 
-![image1](https://github.com/user-attachments/assets/8670c15c-353d-4de3-b1d2-b1605b7329ae)
-
+![image](https://github.com/user-attachments/assets/4bcb5b02-4611-4bc6-be45-7bd16227f9d8)
 </body>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
