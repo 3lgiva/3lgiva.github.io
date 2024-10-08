@@ -18,7 +18,7 @@
     <li class="highlightedlistitem">his resting bitch face is just-
 
 <p></p>
-<img src="romi2.jpg">
+<img src="romi2.jpg"width=50%>
 <p></p>
     <p>Exhibiti 2</p>
  <li class="highlightedListItem">
