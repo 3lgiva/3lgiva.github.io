@@ -47,6 +47,8 @@
     <img src="romi6.jpg" width=50%/>
 <p></p>
     <p>Exhibit 4.2</p>
+    <li class=highlightedlistitem">
+        ~~~god i went feral for this card~~~
     <img src="romi9.jpg" width=50%/>
 
     
