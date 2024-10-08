@@ -22,7 +22,7 @@ e](
     
 ![image](https://i.pinimg.com/736x/8e/c2/56/8ec2563de6dffcb155f75b4f3b155378.jpg)
 
-/images/romi
+
 
 <body>
     <p>Exhbit 2</p>
