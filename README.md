@@ -17,7 +17,9 @@
     <p>Exhibit 1</p>
     <li class="highlightedlistitem">his resting bitch face is just-
 
-<p></p>
+</div>
+    </div>
+        </div>
 <img src="romi2.jpg"width=50%>
 <p></p>
     <p>Exhibiti 2</p>
@@ -46,6 +48,9 @@
 <p></p>
     <img src="romi9.jpg">
 
+</div>
+    </div>
+        </div>
  <h3>Pros and con of romeo (romi, ro-ro, lulu, our little bitchy boy)</h3>
 
 |pro|con|
@@ -55,8 +60,4 @@
 |Will worry about your skin care routine like it's the end of the world| abbreviate *a lot* of his insults to a point where when you ask what they mean, **he will insult u more**. (ex: TGA = "tiresome","good-for-nothing","asshole" (don't ask me how i remember that))|
 |weapon of choice is a sniper rifle| he can shot properly.|
 
-
-<h3>yes lexeigh.... i am aware.... know i have horrible taste in men...</h3>
-<p> BUT THIS IS MY DEFENSE:</p>
-    <p>i don't have one...</p>
-    
+</div>
