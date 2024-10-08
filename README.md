@@ -20,15 +20,23 @@
 <img src="romi2.jpg">
 
 <p></p>
-    <p>Exhbit 2</p>
+    <p>Exhibit 2</p>
 
  <li class="highlightedListItem">
         he's so fucking pretty
     <li class="highlightedlistitem">
         you can't lie to me.
 <p></p>
-<img src="romi3.jpg">
+<img src="romi4.jpg">
 </body>
+
+<p></p>
+    <p>Exhibit 3</p>
+<li class="highlightedlistitem">
+        him. that's all.
+<p></p>
+<img src="romi3.jpg">
+<p></p>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
 
