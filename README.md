@@ -49,7 +49,7 @@
     <p>Exhibit 4.2</p>
       <s>god i went feral for this card</s>
 <li class="highlightenlistitem">
-      you saw nothing
+      you saw nothing. focused on him 🫀 
         
 <p></p>
     <img src="romi9.jpg" width=50%/>
