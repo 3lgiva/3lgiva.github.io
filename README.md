@@ -14,7 +14,7 @@
 
 <body>
     <h3> About him</h3>
-    <p>He's fomr a game call Tokyo Debunker and runs a casion.</p>
+    <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
     <p>he's so fucking pretty</p>
     
