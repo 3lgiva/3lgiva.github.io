@@ -38,6 +38,17 @@
 <img src="romi3.jpg">
 <p></p>
 
+<p></p>
+    <p>Exhibit 4</p>
+<li class="highlightedlistitem">
+    his taste in fashion is killer.
+<li class="highlightedlisteditem">
+    I would die for it.
+
+<p></p>
+    <img src="romi6.jpg">
+    
+
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
 
 
