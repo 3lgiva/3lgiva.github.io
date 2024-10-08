@@ -4,6 +4,13 @@
     <meta name="discription" content="a page where i go feral about romeo">
 </head>
 
+<body>
+    <h1>hi lexeigh</h1>
+    <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
+    <p>This is Romeo Scorpius Lucci</p>
+    
+    ![alt text](https://i.pinimg.com/736x/2e/a2/6c/2ea26cd7a7abd24e9976ddcd91902b3f.jpg)
+</body>
 <h1>Hi lexeigh<h1>
 <h3>i though i'll introduce my new addiction in your respond to edward</h3>
   
