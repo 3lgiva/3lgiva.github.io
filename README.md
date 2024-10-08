@@ -28,7 +28,6 @@
         you can't lie to me.
 <p></p>
 <img src="romi5.jpg">
-</body>
 
 <p></p>
     <p>Exhibit 3</p>
@@ -52,7 +51,7 @@
 <p></p>
     <p>Exhibit 5</p>
     <img src="romi6.jpg">
-    
+</body>
 
  <h3>Pros and con of romeo (romi,ro-ro, lulu, our little bitchy boy)</h3>
 
