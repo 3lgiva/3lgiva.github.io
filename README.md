@@ -21,7 +21,8 @@ e](
     <p>he's so fucking pretty</p>
     
 ![image](https://i.pinimg.com/736x/8e/c2/56/8ec2563de6dffcb155f75b4f3b155378.jpg)
-![romi](https://github.com/user-attachments/assets/50409f8c-eea3-4ddc-9580-380b158399c0)
+
+/images/romi
 
 <body>
     <p>Exhbit 2</p>
