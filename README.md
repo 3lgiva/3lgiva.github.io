@@ -10,7 +10,8 @@
     <p>This is Romeo Scorpius Lucci</p>
 </body>
    
-    
+<body>
+    <div>
 <img src="romi.jpg">
     <h3> About him</h3>
     <p>He's from a game call Tokyo Debunker and runs a casion.</p>
@@ -19,6 +20,8 @@
         his resting bitch face is just-
     <p></p>
 <img src="romi2.jpg"width=50%>
+    </div>
+</body>
 
 <body>
 <div class="container"
@@ -30,7 +33,8 @@
 </div>
 </body>
 
-<p></p>
+<body>
+    <div>
 <img src="romi5.jpg">
 
 <p></p>
@@ -39,13 +43,21 @@
         him. that's all.
 <p></p>
 <img src="romi8.jpg">
+</div>
+</body>
+
+<body>
+    <div>
     <p>Exhibit 4.1</p>
 <li class="highlightedlistitem">
     his taste in fashion is killer.
 <li class="highlightedlisteditem">
     I would die for it.
+</li>
 <p></p>
     <img src="romi6.jpg">
+    </div>
+</body>
     <p>Exhibit 4.2</p>
         
 <p></p>
