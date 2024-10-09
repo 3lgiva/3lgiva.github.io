@@ -21,6 +21,7 @@
          </li>
              <p></p>
             <img src="romi2.jpg">
+</body>
 
 <h3>Pros and con fo romeo (romi,ro-ro, lulu, our little bitchy boy) </h3>
 
