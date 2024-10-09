@@ -4,12 +4,6 @@
     <meta name="discription" content="a page where i go feral about romeo">
 </head>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="author" content="Patricia Siew">
-    <meta name="discription" content="a page where i go feral about romeo">
-</head>
-
 <body>
     <h1>hi lexeigh</h1>
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
