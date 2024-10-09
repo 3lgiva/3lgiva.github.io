@@ -20,7 +20,7 @@
              his resting bitch face is just-
          </li>
              <p></p>
-            <img src="romi2.jpg" width="50" height="50">
+            <img src="romi2.jpg" width="350" height="350">
 </body>
 
 <body>
