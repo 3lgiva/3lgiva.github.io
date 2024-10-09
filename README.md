@@ -34,6 +34,27 @@
     <img src="romi5.jpg">
 </body>
 
+<body>
+        <p>Exhibit 3</p>
+               <li class="highlightedlistitem">
+                   Him. That's all.
+               </li>
+                <p></p>
+                <img src="romi8.jpg">
+</body>
+
+<body>
+        <p>Exhibit 4.1</p>
+             <li class="highlightedlistitem">
+             his taste in fashion is killer.
+             </li>
+              <li class="highlightedlistitem">
+              I would die for it.
+              </li>
+            <p></p>
+            <img src="romi6.jpg">
+</body>
+
 
 <h3>Pros and con fo romeo (romi, ro-ro, lulu, our little bitchy boy) </h3>
 
