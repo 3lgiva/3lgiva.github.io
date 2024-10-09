@@ -15,15 +15,17 @@
 <body>
     <h3> About him</h3>
         <p>He's from a game call Tokyo Debunker and runs a casion.</p>
-    <p>Exhibit 1</p>
+    <h3>Exhibit 1</h3>
          <li class="highlightedlistitem">
              his resting bitch face is just-
          </li>
              <p></p>
             <img src="romi2.jpg">
 </body>
+
 <body>
-    <p>Exhibit 2</p>
+    <p></p>
+    <h3>Exhibit 2</h3>
      <li class="highlightedlistitem">
          he's so fucking pretty
      </li>
@@ -35,7 +37,8 @@
 </body>
 
 <body>
-        <p>Exhibit 3</p>
+    <p></p>
+        <h3>Exhibit 3</h3>
                <li class="highlightedlistitem">
                    Him. That's all.
                </li>
@@ -44,7 +47,8 @@
 </body>
 
 <body>
-        <p>Exhibit 4.1</p>
+    <p></p>
+        <h3>Exhibit 4.1</h3>
              <li class="highlightedlistitem">
              his taste in fashion is killer.
              </li>
