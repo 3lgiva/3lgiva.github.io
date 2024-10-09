@@ -81,3 +81,29 @@
 |he's from "House of Lucci", which is a famous family from Italy known for their high end luxury brand| will throw insults at you like it's money|
 |Will worry about your skin care routine like it's the end of the world| abbreviate *a lot* of his insults to a point when you ask what they mean, **he will insult u more**. (ex: TGA = "tiresome","good-for-nothing","asshole" (don't ask me how i remember that))|
 |weapon of choice is a sniper rifle| he can shot properly.|
+
+<body>
+    <h3>yes lexeigh.... <s>he's a major red flag</s> he's an atomic bomb.... BUT HEAR ME OUT</h3>
+    <p>let me tell u about my defence first before suggesting therapy for me</p>
+    <p></p>
+    <p></p>
+    <h2>defence:</h2>
+        <li class="highlightedlistitem">
+            He's pretty.
+        </li>
+        <li class="highlightedlistitem">
+            Besides that, he will kill for you <- and that's what we like
+            </li>
+        <li class="highlightedlistitem">
+            on top of that, romi may used you to gain the upper hand <b>BUT</b> he'll make sure to keep you safe <3
+            </li>
+        <li class="highlightedlistitem">
+            may seem like a bitch at first meeting- but he warms up overtime (i promise i'm not being bias)
+        </li>
+        <li class="highlightedlistitem">
+            will come after those who bully you <b>AND</b> force them to go missing.
+        </li>
+            <h3>I rest my case</h3>
+                <p></p>
+                <p>please don't send me to therapy</p>
+</body>
