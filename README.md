@@ -10,6 +10,14 @@
     <meta name="discription" content="a page where i go feral about romeo">
 </head>
 
+<body>
+    <h1>hi lexeigh</h1>
+    <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
+    <p>This is Romeo Scorpius Lucci</p>
+    <img src="romi.jpg">
+
+</body>
+
 <h3>Pros and con fo romeo (romi,ro-ro, lulu, our little bitchy boy) </h3>
 
 
