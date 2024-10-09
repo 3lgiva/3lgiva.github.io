@@ -16,7 +16,7 @@
     <h3> About him</h3>
         <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <h3>Exhibit 1</h3>
-         <li class="highlightedlistitem">
+         <li class="highlightedlistitem" width="50%">
              his resting bitch face is just-
          </li>
              <p></p>
