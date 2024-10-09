@@ -1,4 +1,14 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Patricia Siew">
+    <meta name="discription" content="a page where i go feral about romeo">
+</head>
 
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Patricia Siew">
+    <meta name="discription" content="a page where i go feral about romeo">
+</head>
 
 <h3>Pros and con fo romeo (romi,ro-ro, lulu, our little bitchy boy) </h3>
 
