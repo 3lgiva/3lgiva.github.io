@@ -26,6 +26,7 @@
     <p>Exhbit 2</p>
      <li class="highlightedlistitem">
          he's so fucking pretty
+     </li>
           <li class="highlightedlistitem">
               you can't lie to me
           </li>
