@@ -59,8 +59,20 @@
             <img src="romi6.jpg">
 </body>
 
+<body>
+    <p></p>
+        <h3>Exhibit 4.2</h3>
+         <li class="highlightedlistitem">
+             <s>I went fearl for this card</s>
+         </li>
+              <li class="highlightedlistitem">
+                  you saw nothing. foucs on him.
+              </li>
+                <p></p>
+        <img src="romi9.jpg">
+</body>
 
-<h3>Pros and con fo romeo (romi, ro-ro, lulu, our little bitchy boy) </h3>
+<h3>Pros and con of romeo (romi, ro-ro, lulu, our little bitchy boy) </h3>
 
 
 |pro|con|
