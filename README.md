@@ -72,7 +72,7 @@
         <img src="romi9.jpg">
 </body>
 
-<h3>Pros and con of romeo (romi, ro-ro, lulu, our little bitchy boy) </h3>
+<h3>Pros and con of romeo (fico, romi, ro-ro, lulu, our little bitchy boy) </h3>
 
 
 |pro|con|
