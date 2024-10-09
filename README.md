@@ -17,14 +17,25 @@
         <p>He's from a game call Tokyo Debunker and runs a casion.</p>
     <p>Exhibit 1</p>
          <li class="highlightedlistitem">
-             his resting bitch face is just;
+             his resting bitch face is just-
          </li>
              <p></p>
             <img src="romi2.jpg">
 </body>
+<body>
+    <p>Exhibit 2</p>
+     <li class="highlightedlistitem">
+         he's so fucking pretty
+     </li>
+          <li class="highlightedlistitem">
+              you can't lie to me
+          </li>
+              <p></p>
+    <img src="romi5.jpg">
+</body>
 
 
-<h3>Pros and con fo romeo (romi,ro-ro, lulu, our little bitchy boy) </h3>
+<h3>Pros and con fo romeo (romi, ro-ro, lulu, our little bitchy boy) </h3>
 
 
 |pro|con|
@@ -32,4 +43,4 @@
 |he has money| he's a little shit|
 |he's from "House of Lucci", which is a famous family from Italy known for their high end luxury brand| will throw insults at you like it's money|
 |Will worry about your skin care routine like it's the end of the world| abbreviate *a lot* of his insults to a point when you ask what they mean, **he will insult u more**. (ex: TGA = "tiresome","good-for-nothing","asshole" (don't ask me how i remember that))|
-|weapon of choice is a sniper rifle| he can shot properly.
+|weapon of choice is a sniper rifle| he can shot properly.|
