@@ -71,8 +71,3 @@
 |weapon of choice is a sniper rifle| he can shot properly.|
 
 
-<body>
-    <meta backgound-color: 🟥red;>
-    <meta font-family: system-ui>
-</body>
-       
