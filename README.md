@@ -8,7 +8,7 @@
 
 <body>
     <h1>hi</h1>
-    <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
+    <h3>i though i'll introducee my new addiciton in your respond to twilight edward website</h3>
     <p>This is Romeo Scorpius Lucci</p>
     <img src="romi.jpg">
 
