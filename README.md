@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Patricia Siew">
+    <meta name="author" content="Eli Takamoto">
     <meta name="discription" content="a page where i go feral about romeo">
     <link rel="stylesheet" href="style.css">
 </head>
