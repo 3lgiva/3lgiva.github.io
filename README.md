@@ -7,7 +7,7 @@
 
 
 <body>
-    <h1>hi lexeigh</h1>
+    <h1>hi</h1>
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
     <p>This is Romeo Scorpius Lucci</p>
     <img src="romi.jpg">
@@ -85,7 +85,7 @@
 |weapon of choice is a sniper rifle| he can shot properly.|
 
 <body>
-    <h3>yes lexeigh.... <s>he's a major red flag</s> he's an atomic bomb.... BUT HEAR ME OUT</h3>
+    <h3>yes... <s>he's a major red flag</s> he's an atomic bomb.... BUT HEAR ME OUT</h3>
     <p>let me tell u about my defence first before suggesting therapy for me</p>
     <p></p>
     <p></p>
