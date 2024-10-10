@@ -1,6 +1,0 @@
-header {
-  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/e9/b4/c6/e9b4c65fb45f70ad1b573f67e486d91c.jpg);
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-}
