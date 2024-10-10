@@ -33,7 +33,7 @@
               you can't lie to me
           </li>
               <p></p>
-    <img src="romi5.jpg">
+    <img src="romi5.jpg" width="350" height="350">
 </body>
 
 <body>
@@ -43,7 +43,7 @@
                    Him. That's all.
                </li>
                 <p></p>
-                <img src="romi8.jpg">
+                <img src="romi8.jpg" width="350" height="350">
 </body>
 
 <body>
@@ -56,7 +56,7 @@
               I would die for it.
               </li>
             <p></p>
-            <img src="romi6.jpg">
+            <img src="romi6.jpg" width="350" height="350">
 </body>
 
 <body>
@@ -69,7 +69,7 @@
                   you saw nothing. foucs on him.
               </li>
                 <p></p>
-        <img src="romi9.jpg">
+        <img src="romi9.jpg" width="350" height="350">
 </body>
 
 <h3>Pros and con of romeo (fico, romi, ro-ro, lulu, our little bitchy boy) </h3>
