@@ -4,13 +4,6 @@
     <meta name="discription" content="a page where i go feral about romeo">
 </head>
 
-<header> 
-  <background url(https://th.bing.com/th/id/OIP.8-VlTk3U7ih92HDyP38pHwHaEo?rs=1&pid=ImgDetMain)>
-  <background-size: cover>
-  <background-position: center;
-  height: 100vh;>
-  </header>
-
 <body>
     <h1>hi lexeigh</h1>
     <h3>i though i'll introducee my new addiciton in your respond to edward</h3>
