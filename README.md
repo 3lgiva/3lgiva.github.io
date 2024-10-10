@@ -5,7 +5,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<link rel="romi background" type="text/css">
 
 <body>
     <h1>hi lexeigh</h1>
