@@ -2,6 +2,7 @@
     <meta charset="utf-8">
     <meta name="author" content="Patricia Siew">
     <meta name="discription" content="a page where i go feral about romeo">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <link rel="romi background" type="text/css">
