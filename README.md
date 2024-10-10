@@ -56,7 +56,7 @@
               I would die for it.
               </li>
             <p></p>
-            <img src="romi6.jpg" width="350" height="605">
+            <img src="romi6.jpg" width="350" height="590">
 </body>
 
 <body>
