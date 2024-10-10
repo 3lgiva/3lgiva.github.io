@@ -4,7 +4,7 @@
     <meta name="discription" content="a page where i go feral about romeo">
 </head>
 
-<link rel="romi background" type="text/css" href="https://github.com/3lgiva/3lgiva.github.io/blob/main/romi%20background">
+<link rel="romi background" type="text/css">
 
 <body>
     <h1>hi lexeigh</h1>
